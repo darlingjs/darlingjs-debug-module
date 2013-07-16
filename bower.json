@@ -1,0 +1,25 @@
+{
+  "name": "darlingjs-particles",
+  "version": "0.7.0",
+  "main": [
+    "./performance.js",
+    "./stats.js"
+  ],
+  "description": "darlingjs debug modules (stats.js, performance)",
+  "keywords": [
+    "debug",
+    "statsjs",
+    "performance",
+    "darlingjs"
+  ],
+  "ignore": [
+    ".jshintrc",
+    "**/*.txt"
+  ],
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:darlingjs/darlingjs-debug-module.git"
+  }
+}
